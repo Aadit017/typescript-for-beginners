@@ -1,4 +1,7 @@
 "use strict";
-var value = 23;
-console.log(value);
+// type assertion 
+var str = '1';
+var str2 = str;
+console.log(typeof (str));
+console.log(typeof (str2));
 //# sourceMappingURL=main.js.map

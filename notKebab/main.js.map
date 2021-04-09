@@ -1,1 +1,1 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["../Kebab/main.ts"],"names":[],"mappings":";AAAA,IAAI,KAAK,GAAY,EAAE,CAAA;AACvB,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAA"}
+{"version":3,"file":"main.js","sourceRoot":"","sources":["../Kebab/main.ts"],"names":[],"mappings":";AAAA,kBAAkB;AAClB,IAAI,GAAG,GAAG,GAAG,CAAA;AACb,IAAI,IAAI,GAAkB,GAAG,CAAA;AAC7B,OAAO,CAAC,GAAG,CAAC,OAAM,CAAC,GAAG,CAAC,CAAC,CAAA;AACxB,OAAO,CAAC,GAAG,CAAC,OAAM,CAAC,IAAI,CAAC,CAAC,CAAA"}
