@@ -31,7 +31,7 @@
 -  
   #### running using the extension [**TypeScript God**](https://marketplace.visualstudio.com/items?itemName=basarat.god#:~:text=Raises%20the%20level%20of%20tooling,to%20make%20VSCode%20the%20bestest.)
 
-  >To run any ts file , go to it and press _ctrl+alt+z_ to see the output down below 
+  >To run any ts file , go to it and press _ctrl+alt+x_ to see the output down below 
 
 
 
