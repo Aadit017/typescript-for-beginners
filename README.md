@@ -8,9 +8,11 @@
 
 ## How to use this repository 
 - _https_ git clone https://github.com/Aadit017/typescriptPrc.git
-- cd typescriptPrc
+- cd typescript-for-beginners
 - code . (to open _vscode_)
-- run ->
+- run (_this will compile all the ts files into js files_)->
   ```bash
   tsc  
   ```
+- all the TS files are present inside "ts" and the compiled JS files in "js"  
+### **YOU ARE ADVISED NOT THE MODIFY THE "tsconfig.json" file**
