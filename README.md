@@ -20,3 +20,18 @@
 ## **METHODS OF RUNNING THE TS FILES** 
 
 ### _1_
+- [x] 
+  > running the compiled javascript files present in [js](https://github.com/Aadit017/typescript-for-beginners/tree/Friendly_Branch/js) 
+
+  For example to run <name>.ts , you will have to run <name>.js
+  > _command_
+  ```bash 
+  tsc && node (correct_path_of_the_file)<name_of_the_file>.js
+  ```
+### _2_
+- [x] 
+  > running using the extension [**TypeScript God**](https://marketplace.visualstudio.com/items?itemName=basarat.god#:~:text=Raises%20the%20level%20of%20tooling,to%20make%20VSCode%20the%20bestest.)
+
+  To run any ts file , go to it and press _ctrl+alt+z_
+
+  
