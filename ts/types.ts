@@ -1,3 +1,4 @@
+let someRandomValue : any= 23 
 interface User {
   name: string
   id : number 

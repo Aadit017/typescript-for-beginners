@@ -17,6 +17,7 @@
 - all the TS files are present inside "ts" and the compiled JS files in "js"  
 ### **YOU ARE ADVISED NOT THE MODIFY THE "tsconfig.json" file**
 
+
 ## **METHODS OF RUNNING THE TS FILES** 
 
 ### _1_
