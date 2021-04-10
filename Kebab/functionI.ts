@@ -7,6 +7,7 @@ class Aadit {
 console.log("the global variable was "+globalVariable);
 console.log(" lets make the sum of 2 variables using typescript ");
 const objectForClass = new Aadit()
-console.log(objectForClass.addTwoVariables(2,35));
+console.log(objectForClass.addTwoVariables(2, 35));
+
 
 
