@@ -21,16 +21,21 @@
 
 ### _1_
 -  
-  > running the compiled javascript files present in [js](https://github.com/Aadit017/typescript-for-beginners/tree/Friendly_Branch/js) 
+  #### running the compiled javascript files present in [js](https://github.com/Aadit017/typescript-for-beginners/tree/Friendly_Branch/js) 
 
-  For example to run <name>.ts , you will have to run <name>.js
-  > _command_
+  > For example to run <name>.ts , you will have to run <name>.js
   ```bash 
   tsc && node (correct_path_of_the_file)<name_of_the_file>.js
   ```
-### _2_
+### _2_ **ONLY WORKS WITH VS CODE**
 -  
-  > running using the extension [**TypeScript God**](https://marketplace.visualstudio.com/items?itemName=basarat.god#:~:text=Raises%20the%20level%20of%20tooling,to%20make%20VSCode%20the%20bestest.)
+  #### running using the extension [**TypeScript God**](https://marketplace.visualstudio.com/items?itemName=basarat.god#:~:text=Raises%20the%20level%20of%20tooling,to%20make%20VSCode%20the%20bestest.)
 
-  To run any ts file , go to it and press _ctrl+alt+z_
+  >To run any ts file , go to it and press _ctrl+alt+z_ to see the output down below 
+
+
+
+### THIS REPOSITORY IS MAINTAINED BY @Aadit017
+> FOR OWNERSHIP OF THIS REPOSITORY , PLEASE CONTACT 
+
 
